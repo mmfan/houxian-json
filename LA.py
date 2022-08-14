@@ -32,6 +32,7 @@ class LA:
             js = self.loadJson(pinyin)
             self.lives.extend(f"{j['title']},{j['address']}" for j in js['zhubo'])
             self.lives.append("")
+            print(d, "爬取完成")
 
     # 保存lives
     def save(self, savepath):
@@ -50,7 +51,7 @@ def git(path):
     :param path:
     :return:
     """
-    order_arr = [f"git add {path}", "git commit -m " + '"' + "直播接口" + '"', "git push origin main"]
+    order_arr = [f"git add {path}", "git commit -m " + '"' + "直播接口" + '"', "git push origin master"]
     for order in order_arr:
         os.system(order)
 
