@@ -1,14 +1,23 @@
 // 配置地址 --> https://raw-gh.gcdn.mirr.one/XuQqu/PinkBird/main/adult.json
 {
 "sites": [
-{"key":"csp_biubiu_黄仓库","name": "黄仓库","type": 3,"api": "csp_XBiubiu","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://raw-gh.gcdn.mirr.one/XuQqu/PinkBird/main/XBAdult/_黄仓库.json"},
-//{"key": "csp_biubiu_新香蕉","name": "新香蕉","type": 3,"api": "csp_XBiubiu","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://raw-gh.gcdn.mirr.one/XuQqu/PinkBird/main/XBAdult/_新香蕉.json"},
-{"key":"csp_biubiu_大中国","name": "大中国","type": 3,"api": "csp_XBiubiu","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://raw-gh.gcdn.mirr.one/XuQqu/PinkBird/main/XBAdult/_大中国.json"},
-{"key":"csp_biubiu_四虎","name": "四虎","type": 3,"api": "csp_XBiubiuMy","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://raw-gh.gcdn.mirr.one/XuQqu/PinkBird/main/XBAdult/四虎.json"},
-{"key":"csp_biubiu_5G影院","name": "5G影院","type": 3,"api": "csp_XBiubiuMy","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://raw-gh.gcdn.mirr.one/XuQqu/PinkBird/main/XBAdult/5G影院.json"},
-{"key":"csp_biubiu_xxj","name": "新香蕉","type": 3,"api": "csp_XBiubiuMy","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://raw-gh.gcdn.mirr.one/XuQqu/PinkBird/main/XPAdult/2024xxj.json"},
-//{"key": "csp_biubiu_AVTB","name": "AV淘宝","type": 3,"api": "csp_XBiubiuMy","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw-gh.gcdn.mirr.one/XuQqu/PinkBird/main/XBAdult/AV淘宝.json"},
-{"key":"csp_biubiu_GAOAA","name": "GAOAA(慢)","type": 3,"api": "csp_XBiubiuMy","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw-gh.gcdn.mirr.one/XuQqu/PinkBird/main/XBAdult/GAOAA.json"},
+{"key":"csp_biubiu_香蕉国产传媒","name":"香蕉国产传媒(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/houxian/json/raw/branch/master/XBAdult/香蕉传媒.json"},
+{"key":"csp_biubiu_香蕉视频","name":"香蕉视频(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/houxian/json/raw/branch/master/XBAdult/香蕉视频.json"},
+{"key":"csp_biubiu_新香蕉","name":"新香蕉(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/houxian/json/raw/branch/master/XBAdult/新香蕉.json"},
+{"key":"csp_biubiu_新香蕉2","name":"新香蕉2(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/houxian/json/raw/branch/master/XBAdult/新香蕉2.json"},
+{"key":"csp_biubiu_爱看影院","name":"爱看影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/houxian/json/raw/branch/master/XBAdult/爱看影院.json"},
+{"key":"csp_biubiu_黄仓库","name":"黄仓库(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/houxian/json/raw/branch/master/XBAdult/黄仓库.json"},
+{"key":"csp_biubiu_黄颜仓库","name":"黄颜仓库(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/houxian/json/raw/branch/master/XBAdult/黄颜仓库.json"},
+{"key":"csp_biubiu_麻豆传媒","name":"麻豆传媒(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/houxian/json/raw/branch/master/XBAdult/麻豆传媒.json"},
+{"key":"csp_biubiu_麻豆AV","name":"麻豆AV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/houxian/json/raw/branch/master/XBAdult/麻豆AV.json"},
+{"key":"csp_biubiu_四虎影院","name":"四虎影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/houxian/json/raw/branch/master/XBAdult/四虎影院.json"},
+
+{"key":"csp_biubiu_4K狗午夜版","name":"4K狗午夜版(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/houxian/json/raw/branch/master/XBAdult/4K狗午夜版.json"},
+{"key":"csp_biubiu_聚优AV","name":"聚优AV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/houxian/json/raw/branch/master/XBAdult/聚优AV.json"},
+{"key":"csp_biubiu_GAOAA","name":"GAOAA(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/houxian/json/raw/branch/master/XBAdult/GAOAA.json"},
+{"key":"csp_biubiu_GimyTV","name":"GimyTV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/houxian/json/raw/branch/master/XBAdult/GimyTV.json"},
+{"key":"csp_appysv2_天天视频","name":"※天天视频(M)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://app.qianju.cc/api.php/v1.vod"},
+{"key": "*AIvin","name": "*AIvin","type": 0,"api": "http://lbapiby.com/api.php/provide/vod/at/xml"},
 //切片资源
 //type=0表示xml资源,type=1表示json资源
 {"key":"鲨鱼","name":"鲨鱼(切)","type":1,"api":"https://shayuapi.com/api.php/provide/vod","searchable":1,"quickSearch":1},

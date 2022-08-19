@@ -1,69 +1,57 @@
-{
-  "author": "houxian",
-  "name": "新香蕉",
-  "url": "https://www.2024xxj.com", //填网站链接
-  "tihuan": "cnzz.com", //这个不用动，是个别网站嗅探时过滤地址用的
-  "User": "空", //这个不用动，是个别网站播放需要请求头时才用到
-  "shouye": "1",
-
-  "fenlei": "DVR高清$/?m=vod-type-12-#美女主播$?m=vod-type-13-#国产自拍$?m=vod-type-14-#高清HD$?m=vod-type-15-#欧美大片$?m=vod-type-16-#三级综合$?m=vod-type-17-#中文综合$/?m=vod-type-5-#中文无码$?m=vod-type-6-#中文近亲$?m=vod-type-7-#中文护士$?m=vod-type-8-#中文师生$?m=vod-type-9-#中文强奸$?m=vod-type-10-", //网站列表的分类
-  "qianzhui": "空", //网站翻页链接的前缀
-  "houzhui": ".html", //网站翻页链接的后缀
-
-  "shifouercijiequ": "1", //截取的列表数组是否需要二次截取，0不需要，1需要
-  "jiequqian": "<li>", //不需要二次截取就填空
-  "jiequhou": "</li>", //不需要二次截取就填空
-  "jiequshuzuqian": "class=\"box movie_list\"", //截取的列表数组的前关键词,截取的关键词有 " 的用 \ 进行转义
-  "jiequshuzuhou": "</div>", //截取的列表数组的后关键词,截取的关键词有 " 的用 \ 进行转义
-  "tupianqian": "src=\"", //列表中资源的图片前关键词,截取的关键词有 " 的用 \ 进行转义
-  "tupianhou": "\"", //列表中资源的图片后关键词,截取的关键词有 " 的用 \ 进行转义
-  "biaotiqian": "<h3>", //列表中资源的标题前关键词,截取的关键词有 " 的用 \ 进行转义
-  "biaotihou": "</h3>", //列表中资源的标题后关键词,截取的关键词有 " 的用 \ 进行转义
-  "lianjieqian": "href=\"", //列表中资源的详情页跳转链接前关键词,截取的关键词有 " 的用 \ 进行转义
-  "lianjiehou": "\"", //列表中资源的详情页跳转链接后关键词,截取的关键词有 " 的用 \ 进行转义
-
-  //搜索部分基本不用动，现在网站基本都是苹果CMS，所有搜索是固定的。
-  "sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
-  "sousuohou": "&limit=500",
-  "sousuohouzhui": "/voddetail/", //搜索页影片跳转详情页的中间标识链接部分
-  "ssmoshi": "0",
-  "sousuoshifouercijiequ": "0",
-  "jspic": "pic",
-  "jsname": "name",
-  "jsid": "id",
-  "ssjiequqian": "空",
-  "ssjiequhou": "空",
-  "ssjiequshuzuqian": "空",
-  "ssjiequshuzuhou": "空",
-  "sstupianqian": "空",
-  "sstupianhou": "空",
-  "ssbiaotiqian": "空",
-  "ssbiaotihou": "空",
-  "sslianjieqian": "空",
-  "sslianjiehou": "空",
-
-  "bfshifouercijiequ": "0",
-  "bfjiequqian": "空",
-  "bfjiequhou": "空",
-  "bfjiequshuzuqian": "class=\"item\">", //播放截取的列表数组的前关键词
-  "bfjiequshuzuhou": "</div>", //播放截取的列表数组的后关键词
-
-  "zhuangtaiqian": "集数：</span><div class=\"video-info-item\">", //状态前关键词
-  "zhuangtaihou": "</div>", //状态后关键词
-  "daoyanqian": "导演：</span>", //导演前关键词
-  "daoyanhou": "</div>", //导演态后关键词
-  "zhuyanqian": "主演：</span>", //主演前关键词
-  "zhuyanhou": "</div>", //主演后关键词
-  "juqingqian": "vod_content\"><span>", //剧情前关键词
-  "juqinghou": "</span>", //剧情后关键词
-
-  "bfyshifouercijiequ": "0", //截取的播放列表数组是否需要二次截取，0不需要，1需要
-  "bfyjiequqian": "空", //不需要二次截取就填空
-  "bfyjiequhou": "空", //不需要二次截取就填空
-  "bfyjiequshuzuqian": "<a", //播放剧集数组前关键词
-  "bfyjiequshuzuhou": "/a>", //播放剧集数组后关键词
-  "bfbiaotiqian": "blank\">", //播放剧集标题前关键词
-  "bfbiaotihou": "<", //状播放剧集标题后关键词
-  "bflianjieqian": "href=\"", //播放剧集链接前关键词
-  "bflianjiehou": "\""
-} //播放剧集链接后关键词
+ {"name": "*新香蕉",
+"url": "https://www.2024xxj.com",
+"tihuan": "cnzz.com",
+"User": "空",
+"fenlei": "中文综合$/?ju=xxj-xxjfl-zwzh-#中文无码$/?ju=xxj-xxjfl-zwwm-#中文近亲$/?ju=xxj-xxjfl-zwjq-#中文护士$/?ju=xxj-xxjfl-zwhs-#中文师生$/?ju=xxj-xxjfl-zwss-#中文强奸$/?ju=xxj-xxjfl-zwqj-#DVR高清$/?ju=xxj-xxjfl-dvrgq-#美女主播$/?ju=xxj-xxjfl-mnzb-#国产自拍$/?ju=xxj-xxjfl-gczp-#高清HD$/?ju=xxj-xxjfl-gqhd-#欧美大片$/?ju=xxj-xxjfl-omdp-#三级综合$/?ju=xxj-xxjfl-sjzh-#麻豆原创$/?ju=gccm-gccmfl-1-#91制片厂$/?ju=gccm-gccmfl-2-#天美传媒$/?ju=gccm-gccmfl-3-#蜜桃传媒 $/?ju=gccm-gccmfl-4-#皇家华人$/?ju=gccm-gccmfl-5-#星空传媒$/?ju=gccm-gccmfl-6-#精东影业$/?ju=gccm-gccmfl-7-#乐播传媒$/?ju=gccm-gccmfl-8-#乌鸦传媒$/?ju=gccm-gccmfl-9-#兔子先生$/?ju=gccm-gccmfl-10-#杏吧原创$/?ju=gccm-gccmfl-11-#mini传媒$/?ju=gccm-gccmfl-12-#大象传媒$/?ju=gccm-gccmfl-13-#开心鬼传媒$/?ju=gccm-gccmfl-14-#PsychoPorn$/?ju=gccm-gccmfl-15-#糖心Vlgo $/?ju=gccm-gccmfl-16-#港台三级$/?ju=gccm-gccmfl-17-#无码中文$/?ju=thlt-thltfl-1-#有码中文$/?ju=thlt-thltfl-2-#精品国产$/?ju=thlt-thltfl-3-#欧美高清$/?ju=thlt-thltfl-4-#成人动漫$/?ju=thlt-thltfl-5-#VIP专区$/?ju=fcw-fcwfl-vipzq-#日本有码$/?ju=fcw-fcwfl-rbym-#日本无码$/?ju=fcw-fcwfl-rbwm-#偷拍系列$/?ju=fcw-fcwfl-tpxl-#成人动漫$/?ju=fcw-fcwfl-crdm-#国产自拍$/?ju=fcw-fcwfl-gczp-#韩国综合$/?ju=fcw-fcwfl-hgzh-#VR专区$/?ju=fcw-fcwfl-vrzq-#欧美专区$/?ju=fcw-fcwfl-omzq-#国产自拍$/?ju=99re-99refl-72-#肛交$/?ju=99re-99refl-67-#口爆颜射$/?ju=99re-99refl-66-#潮吹$/?ju=99re-99refl-63-#制服丝袜$/?ju=99re-99refl-65-#一本道$/?ju=99re-99refl-59-#日本有码$/?ju=99re-99refl-58-#加勒比$/?ju=99re-99refl-57-#日本无码$/?ju=99re-99refl-56-#李宗瑞全集$/?ju=99re-99refl-55-#中文字幕$/?ju=99re-99refl-54-#会员认证作品$/?ju=99re-99refl-64-#欧美$/?ju=99re-99refl-53-#东京热$/?ju=99re-99refl-68-#小格式综合$/?ju=99re-99refl-69-#女主播系列$/?ju=99re-99refl-70-#成人动漫$/?ju=99re-99refl-71-#SM性虐$/?ju=99re-99refl-73-#韩国综合$/?ju=99re-99refl-74-#三级专区$/?ju=99re-99refl-75-#VR专区$/?ju=99re-99refl-76-#AV解说$/?ju=avjs-avjsfl-avjs-",
+"houzhui": ".html",
+"shifouercijiequ": "0",
+"jiequqian": "空",
+"jiequhou": "空",
+"jiequshuzuqian": "class=\"uk-width-1-5",
+"jiequshuzuhou": "</a>",
+"tupianqian": "data-original=\"",
+"tupianhou": "\"",
+"biaotiqian": "alt=\"",
+"biaotihou": "\"",
+"lianjieqian": "href=\"",
+"lianjiehou": "\"",
+"sousuoqian": "/?m=search-type-so-0.html&TXT=",
+"sousuohou": "&submit=",
+"sousuohouzhui": "/detail/",
+"ssmoshi": "1",
+"sousuoshifouercijiequ": "0",
+"jspic": "空",
+"jsname": "空",
+"jsid": "空",
+"ssjiequqian": "空",
+"ssjiequhou": "空",
+"ssjiequshuzuqian": "class=\"uk-width-1-5",
+"ssjiequshuzuhou": "</a>",
+"sstupianqian": "src=\"",
+"sstupianhou": "\"",
+"ssbiaotiqian": "alt=\"",
+"ssbiaotihou": "\"",
+"sslianjieqian": "href=\"",
+"sslianjiehou": "\"",
+"bfshifouercijiequ": "0",
+"bfjiequqian": "空",
+"bfjiequhou": "空",
+"bfjiequshuzuqian": "class=\"read-btn uk-margin-bottom",
+"bfjiequshuzuhou": "</div>",
+"zhuangtaiqian": "影片分类:<span>",
+"zhuangtaihou": "</p>",
+"daoyanqian": "更新时间:<span>",
+"daoyanhou": "</p>",
+"zhuyanqian": "主演：",
+"zhuyanhou": "</p>",
+"juqingqian": "剧情：",
+"juqinghou": "</p>",
+"bfyshifouercijiequ": "0",
+"bfyjiequqian": "空",
+"bfyjiequhou": "空",
+"bfyjiequshuzuqian": "<a",
+"bfyjiequshuzuhou": "/a>",
+"bfbiaotiqian": ">",
+"bfbiaotihou": "<",
+"bflianjieqian": "href=\"",
+"bflianjiehou": "\""}
