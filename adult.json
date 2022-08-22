@@ -1,6 +1,7 @@
 // 配置地址 --> https://raw-gh.gcdn.mirr.one/XuQqu/PinkBird/main/adult.json
 {
 "sites": [
+{"key":"csp_Xiangjiao","name":"new香蕉","type":3,"api":"csp_Xiangjiao","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_biubiu_香蕉国产传媒","name":"香蕉国产传媒(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/houxian/json/raw/branch/master/XBAdult/香蕉传媒.json"},
 {"key":"csp_biubiu_香蕉视频","name":"香蕉视频(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/houxian/json/raw/branch/master/XBAdult/香蕉视频.json"},
 {"key":"csp_biubiu_新香蕉","name":"新香蕉(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/houxian/json/raw/branch/master/XBAdult/新香蕉.json"},
@@ -149,7 +150,7 @@
 {"name":"CL4K02","type":0,"url":"https://app.okmedcos.com/4k/?url=","ext":{"flag":["CL4K","qq","腾讯","pptv","PPTV"]}}
 ],
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vaG91eGlhbi9qc29uL3Jhdy9icmFuY2gvbWFzdGVyL2xpdmVzL0xpdmVBZHVsdC50eHQ="]}]}],
-"spider":"https://gitea.com/houxian/json/raw/branch/master/jar/18.jar",
+"spider":"https://gitea.com/houxian/json/raw/branch/master/jar/my_spider.jar",
 "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi"],
 "ijk":[
 {"group":"软解码","options":[
