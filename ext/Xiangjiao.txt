@@ -1,0 +1,54 @@
+{
+  "classes": [
+    {
+      "type_name": "国产传媒",
+      "type_id": "gccm-gccmfl-1"
+    },
+    {
+      "type_name": "VIP专区",
+      "type_id": "fcw-fcwfl-vipzq"
+    }
+  ],
+  "filter": {
+      "gccm-gccmfl-1": [
+      {
+        "key": "tid",
+        "name": "分类",
+        "value": [
+          {
+            "n": "麻豆原创",
+            "v": "gccm-gccmfl-1"
+          },
+          {
+            "n": "91制片厂",
+            "v": "gccm-gccmfl-2"
+          },
+          {
+            "n": "天美传媒",
+            "v": "gccm-gccmfl-3"
+          }
+        ]
+      },
+    ],
+      "fcw-fcwfl-vipzq": [
+      {
+        "key": "tid",
+        "name": "全部",
+        "value": [
+          {
+            "n": "VIP专区",
+            "v": "fcw-fcwfl-vipzq"
+          },
+          {
+            "n": "日本有码",
+            "v": "fcw-fcwfl-rbym"
+          },
+          {
+            "n": "日本无码",
+            "v": "fcw-fcwfl-rbwm"
+          }
+        ]
+      },
+    ]
+  }
+}
