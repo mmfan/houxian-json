@@ -1,7 +1,7 @@
 // 配置地址 --> https://raw-gh.gcdn.mirr.one/XuQqu/PinkBird/main/adult.json
 {
 "sites": [
-{"key":"csp_Xiangjiao","name":"new香蕉","type":3,"api":"csp_Xiangjiao","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Xiangjiao","name":"new香蕉","type":3,"api":"csp_Xiangjiao","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/houxian/json/raw/branch/master/ext/Xiangjiao.txt"},
 {"key":"csp_biubiu_香蕉国产传媒","name":"香蕉国产传媒(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/houxian/json/raw/branch/master/XBAdult/香蕉传媒.json"},
 {"key":"csp_biubiu_香蕉视频","name":"香蕉视频(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/houxian/json/raw/branch/master/XBAdult/香蕉视频.json"},
 {"key":"csp_biubiu_新香蕉","name":"新香蕉(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/houxian/json/raw/branch/master/XBAdult/新香蕉.json"},
