@@ -1,12 +1,28 @@
 {
   "classes": [
     {
+      "type_name": "超清资源",
+      "type_id": "cqzy-cqzyfl-62"
+    },
+    {
+      "type_name": "中文资源",
+      "type_id": "xxj-xxjfl-zwzh"
+    },
+    {
+      "type_name": "AV解说",
+      "type_id": "avjs-avjsfl-avjs"
+    },
+    {
       "type_name": "国产传媒",
       "type_id": "gccm-gccmfl-1"
     },
     {
-      "type_name": "VIP专区",
+      "type_name": "废柴网资源",
       "type_id": "fcw-fcwfl-vipzq"
+    },
+    {
+      "type_name": "久久热资源",
+      "type_id": "99re-99refl-72"
     }
   ],
   "filter": {
