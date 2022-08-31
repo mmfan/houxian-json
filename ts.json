@@ -385,7 +385,7 @@
 //"proxy://do=live&type=txt&ext=aHR0cDovLzl4aTRvLnRrL3N1Yi9teXR2LnR4dA=="
 "proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vaG91eGlhbi9qc29uL3Jhdy9icmFuY2gvbWFzdGVyL2xpdmVzL0xpdmVOb3JtYWwudHh0"
 ]}]}],
-"spider":"https://gitea.com/houxian/json/raw/branch/master/jar/0826.jar;md5;b10d1d0527e69bcdc323a4c0bf9e5d65",
+"spider":"https://gitea.com/houxian/json/raw/branch/master/jar/0831.jar;md5;3ff273adc74924748c820b8f15fb8c49",
 "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi"],
 "ijk":[
 {"group":"软解码","options":[
